@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Temp/Git/uni-team-project/RaceProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/AW/9C8I9TFBGJO0WM04UO7ECN.uasset",
+				"C:/Temp/Git/uni-team-project/RaceProject/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/X3/ZXVNZQKWDIN057XW1723FF.uasset"
+			]
+		}
+	]
+}
